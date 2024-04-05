@@ -1,5 +1,4 @@
 import "./globals.css";
-
 import type { Metadata } from "next";
 import { Nunito } from "next/font/google";
 import { SITENAME } from "@/lib/constants";
