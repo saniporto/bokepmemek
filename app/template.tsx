@@ -12,7 +12,7 @@ export default function Template({ children }: { children: ReactNode }) {
             </div>
             <Footer />
             <Toaster position="top-right" />
-            <ads/>
+            <AdScript/>
         </main>
     );
 }
